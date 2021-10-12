@@ -1,0 +1,13 @@
+produtos
+- id
+- nome
+- valor
+
+compra
+- id
+- produto_id
+- nome
+- cpf
+- telefone
+- link_pdf
+- id_boleto
